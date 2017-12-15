@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=War
+comment0.text=\r\n\ This\ program\ creates\ two\ armies\ and\ then\ battles\ them.\ It\ populates\ the\ two\ armies\ with\ different\ types\ of\ units\ and\ prints\ out\ info\ during\ and\ after\ the\ battle.\r\n\ \r\n\ @author\ Connor\ Richardson\r\n\ @version\ 12/14/17\r\n
+comment1.params=
+comment1.target=War()
+comment1.text=\r\n\ Creates\ two\ armies\ and\ populates\ them.\ Army\ 1\ gets\ elves\ and\ humans,\ but\ army\ 2\ gets\ demons,\ balrogs,\ and\ cyberdemons.\ Randomly\ assigns\ unit\ types\ to\ armies.\r\n
+comment2.params=
+comment2.target=void\ battle()
+comment2.text=\r\n\ This\ is\ the\ actual\ battle\ between\ the\ two\ armies.\ It\ prints\ every\ time\ a\ unit\ dies,\ with\ a\ flavor\ specific\ to\ that\ army.\ In\ the\ end,\ it\ prints\ a\ rundown\ of\ the\ battle\ deaths\ and\ declares\r\n\ one\ of\ the\ armies\ as\ the\ victor\!\r\n\ \r\n
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Demon
+comment0.text=\r\n\ The\ demon\ is\ a\ basic\ demonic\ creature\ that\ has\ a\ 5%\ chance\ to\ deal\ an\ additional\ 50\ damage\ on\ an\ attack.\ Superclass\ of\r\n\ Balrogs\ and\ CyberDemons\r\n\ \r\n\ @author\ Connor\ Richardson\ \r\n\ @version\ 12/13/17\r\n
+comment1.params=
+comment1.target=Demon()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Demon\r\n
+comment2.params=hp\ str
+comment2.target=Demon(int,\ int)
+comment2.text=\r\n\ Default\ Constructor\ for\ the\ Demon\ subclasses\ to\ utilize\r\n
+comment3.params=
+comment3.target=int\ damage()
+comment3.text=\r\n\ This\ overrides\ the\ creature\ class's\ damage()\ method\ and\ uses\ this\ one.\ This\ method\ gives\ the\ demon\ a\ 1\ in\ 20\ chance\r\n\ to\ deal\ an\ additional\ 50\ damage.\r\n
+numComments=4
